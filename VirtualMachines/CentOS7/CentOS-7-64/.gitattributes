@@ -1,0 +1,6 @@
+CentOS-7-64-s029.vmdk filter=lfs diff=lfs merge=lfs -text
+CentOS-7-64-s030.vmdk filter=lfs diff=lfs merge=lfs -text
+CentOS-7-64-s031.vmdk filter=lfs diff=lfs merge=lfs -text
+CentOS-7-64-s032.vmdk filter=lfs diff=lfs merge=lfs -text
+CentOS-7-64-s001.vmdk filter=lfs diff=lfs merge=lfs -text
+*.vmdk filter=lfs diff=lfs merge=lfs -text
